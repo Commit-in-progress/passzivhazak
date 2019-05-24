@@ -1,0 +1,59 @@
+﻿body {
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
+	background-image:url("bg.png");
+	font-family:"Verdana";
+	color:black;
+	padding:10px;
+}
+
+p{
+	
+}
+
+hr {
+	width:60%;
+}
+
+h1, h2 {
+	color:#347235;
+	font-size:17px;
+}
+
+h2 {
+	
+}
+
+#tartalom {
+	margin: auto;
+	text-align: left;
+	background-color:white;
+	width:850px;
+	padding:10px;
+	text-align:justify;
+}
+
+#nev{
+	font-size: 16px;
+	font-style:italic;
+}
+
+
+.kep {
+	float:right;
+	border: 1px solid black;
+	margin-left: 5px;
+	width:50%;
+	
+}
+
+a:link {
+	color: #008080;
+}
+a:visited {
+	color: #008080;
+}
+a:hover {
+	color: #008080;
+}
